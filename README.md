@@ -3,12 +3,19 @@
 To develop a website to display details about the places around my house.
 
 # Design Steps:
-## Step 1
+### Step 1: 
+Create a Django project abd app.
 
-## Step 2
+### Step 2:
+create the html and css files based on your place in the image.
+### Step 3:
+Define new function in views file.
 
-## Step 3
+### Step 4:
+Import views files and define the paths in urls file.
 
+### Step 5:
+Run the server
 
 # Code:
 ## maps
