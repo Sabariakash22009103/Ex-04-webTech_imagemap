@@ -152,4 +152,6 @@ In 1919 CE, labourers from North Arcot district brought the idol of Lord Muneesw
 ![Screenshot_20230113_083114](https://user-images.githubusercontent.com/119390227/212353386-89aaca4a-dec2-4bd5-a00a-0afa4b4983b6.png)
 
 # Result:
+The experiment was executed successfully.
+
 
