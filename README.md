@@ -32,7 +32,8 @@ Run the server
 <font color="blue"><b>Sabari Akash (22009103)</b></font>
 </h3>
 <center>
-<img src="C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot_20230113_020948.png" usemap="#MyCity" height="500" width="1400">
+<img src="![Screenshot_20230113_020948](https://user-images.githubusercontent.com/119390227/212359225-fb27a5ff-7fd6-4bc3-b362-c74f50fb33af.png)
+" usemap="#MyCity" height="500" width="1400">
 <map name="MyCity">
 <area shape="rectangle" coords="230,30,260,60" href="C:\Users\SEC\Desktop\4th\busstand.html" title="Bus Stand">
 <area shape="circle" coords="400,350,50" href="C:\Users\SEC\Desktop\4th\RailwayStation.html" title="Park Town Railway Station">
