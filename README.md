@@ -18,6 +18,7 @@ Import views files and define the paths in urls file.
 Run the server
 
 # Code:
+```
 ## maps
 <!DOCTYPE html>
 <html lang="en">
@@ -43,9 +44,9 @@ Run the server
 </center>
 </body>
 </html>
-
+```
 ## bus.html
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,8 +69,9 @@ The present Bus stand was constructed during 1985, which is in adequate. Now the
 </p>
 </body>
 </html>
-
+```
 ## railway station
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,8 +96,9 @@ The station could be kept a bit more clean, but one doesn't have to wait long as
 </p>
 </body>
 </html>
-
+```
 ## chennai Central
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,8 +126,9 @@ About 550,000 passengers use the terminus every day, making it the busiest railw
 </p>
 </body>
 </html>
-
+```
 ## temple
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -146,7 +150,7 @@ In 1919 CE, labourers from North Arcot district brought the idol of Lord Muneesw
 </p>
 </body>
 </html>
-
+```
 
 # Output:
 ![Screenshot_20230113_083114](https://user-images.githubusercontent.com/119390227/212353386-89aaca4a-dec2-4bd5-a00a-0afa4b4983b6.png)
